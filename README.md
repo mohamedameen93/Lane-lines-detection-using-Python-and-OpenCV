@@ -15,6 +15,7 @@ Pipeline architecture:
 5. Apply Hough transform.
 6. Average and extrapolating the lane lines.
 7. Apply on video streams.
+
 I'll explain each step in details below.
 
 ## **Environement:**
