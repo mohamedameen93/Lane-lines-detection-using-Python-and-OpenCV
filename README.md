@@ -1,5 +1,5 @@
 # **Lane Lines Detection Using Python and OpenCV** 
-In this project, I used Python and OpenCV to detect lane lines on the road. I developed a processing pipeline that works on a series of individual images, and applied the result to a video stream.
+### In this project, I used Python and OpenCV to detect lane lines on the road. I developed a processing pipeline that works on a series of individual images, and applied the result to a video stream.
 
 ![jpg](examples/laneLines_thirdPass.jpg)
 
@@ -15,6 +15,7 @@ Pipeline architecture:
 5. Apply Hough transform.
 6. Average and extrapolating the lane lines.
 7. Apply on video streams.
+
 I'll explain each step in details below.
 
 ## **Environement:**
